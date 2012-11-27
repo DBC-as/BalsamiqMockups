@@ -1,0 +1,51 @@
+<mockup version="1.0" skin="sketch" measuredW="940" measuredH="187" mockupW="940" mockupH="187">
+  <controls>
+    <control controlID="4" controlTypeID="__group__" x="0" y="0" w="940" h="187" measuredW="940" measuredH="187" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>footerMenu</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Menu" x="0" y="0" w="220" h="-1" measuredW="150" measuredH="157" zOrder="0" locked="false" isInGroup="4">
+          <controlProperties>
+            <hrefs>%2C21pageHierarchical%26bm%3B21pageHierarchical.bmml%26bm%3B21pageHierarchical.bmml%26bm%3B21pageHierarchical.bmml%2C21pageHierarchical%26bm%3B21pageHierarchical.bmml%26bm%3B21pageHierarchical.bmml%26bm%3B21pageHierarchical.bmml%2C21pageHierarchical%26bm%3B21pageHierarchical.bmml%26bm%3B21pageHierarchical.bmml%26bm%3B21pageHierarchical.bmml%2C21pageHierarchical%26bm%3B21pageHierarchical.bmml%26bm%3B21pageHierarchical.bmml%26bm%3B21pageHierarchical.bmml%2C21pageHierarchical%26bm%3B21pageHierarchical.bmml%26bm%3B21pageHierarchical.bmml%26bm%3B21pageHierarchical.bmml%2C21pageHierarchical%26bm%3B21pageHierarchical.bmml%26bm%3B21pageHierarchical.bmml%26bm%3B21pageHierarchical.bmml</hrefs>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C26%2C220%2C47%22%20href%3D%2221pageHierarchical.bmml%22%20alt%3D%2221pageHierarchical%22%20id%3D%220_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C47%2C220%2C68%22%20href%3D%2221pageHierarchical.bmml%22%20alt%3D%2221pageHierarchical%22%20id%3D%220_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C68%2C220%2C89%22%20href%3D%2221pageHierarchical.bmml%22%20alt%3D%2221pageHierarchical%22%20id%3D%220_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C89%2C220%2C110%22%20href%3D%2221pageHierarchical.bmml%22%20alt%3D%2221pageHierarchical%22%20id%3D%220_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C110%2C220%2C131%22%20href%3D%2221pageHierarchical.bmml%22%20alt%3D%2221pageHierarchical%22%20id%3D%220_4%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C131%2C220%2C152%22%20href%3D%2221pageHierarchical.bmml%22%20alt%3D%2221pageHierarchical%22%20id%3D%220_5%22/%3E%0A</map>
+            <text>-Om%20biblioteket-%0ABetaling%20af%20b%F8der%20og%20regninger%0ABibliotekets%20servicedeklaration%0AElektronisk%20fakturering%0AL%E5neregler%0ASMS%20dit%20bibliotek%0AUDviklingsplan%202011-2013</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Menu" x="240" y="0" w="220" h="-1" measuredW="150" measuredH="52" zOrder="1" locked="false" isInGroup="4">
+          <controlProperties>
+            <hrefs>%2C21pageHierarchical%26bm%3B21pageHierarchical.bmml%26bm%3B21pageHierarchical.bmml%26bm%3B21pageHierarchical.bmml</hrefs>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22240%2C26%2C460%2C47%22%20href%3D%2221pageHierarchical.bmml%22%20alt%3D%2221pageHierarchical%22%20id%3D%221_0%22/%3E%0A</map>
+            <text>-Studiev%E6rkt%F8jer-%0AStudiev%E6rkt%F8jer</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Menu" x="480" y="0" w="220" h="-1" measuredW="150" measuredH="73" zOrder="2" locked="false" isInGroup="4">
+          <controlProperties>
+            <hrefs>%2C21pageHierarchical%26bm%3B21pageHierarchical.bmml%26bm%3B21pageHierarchical.bmml%26bm%3B21pageHierarchical.bmml%2C21pageHierarchical%26bm%3B21pageHierarchical.bmml%26bm%3B21pageHierarchical.bmml%26bm%3B21pageHierarchical.bmml</hrefs>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22480%2C26%2C700%2C47%22%20href%3D%2221pageHierarchical.bmml%22%20alt%3D%2221pageHierarchical%22%20id%3D%222_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22480%2C47%2C700%2C68%22%20href%3D%2221pageHierarchical.bmml%22%20alt%3D%2221pageHierarchical%22%20id%3D%222_1%22/%3E%0A</map>
+            <text>-Sociale%20medier-%0ABiblioteksbloggen%0ABiblioteket%20p%E5%20Facebook</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Menu" x="720" y="0" w="220" h="-1" measuredW="150" measuredH="73" zOrder="3" locked="false" isInGroup="4">
+          <controlProperties>
+            <hrefs>%2C21pageHierarchical%26bm%3B21pageHierarchical.bmml%26bm%3B21pageHierarchical.bmml%26bm%3B21pageHierarchical.bmml%2C21pageHierarchical%26bm%3B21pageHierarchical.bmml%26bm%3B21pageHierarchical.bmml%26bm%3B21pageHierarchical.bmml</hrefs>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22720%2C26%2C940%2C47%22%20href%3D%2221pageHierarchical.bmml%22%20alt%3D%2221pageHierarchical%22%20id%3D%223_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22720%2C47%2C940%2C68%22%20href%3D%2221pageHierarchical.bmml%22%20alt%3D%2221pageHierarchical%22%20id%3D%223_1%22/%3E%0A</map>
+            <text>-Om%20biblioteket-%0AL%E5neregler%0ABetaling%20af%20b%F8der</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Paragraph" x="160" y="167" w="780" h="20" measuredW="200" measuredH="140" zOrder="4" locked="false" isInGroup="4">
+          <controlProperties>
+            <bold>false</bold>
+            <text>Tempovej%207%202750%20Ballerup%20Telefon%3A%204486%207777%20dbc@dbc.dk</text>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="167" w="150" h="20" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="4">
+          <controlProperties>
+            <bold>true</bold>
+            <text>Malmparken%20bibliotek</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
